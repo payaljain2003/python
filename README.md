@@ -18,3 +18,6 @@ Timer decorator that gives the execution time of any function
 
 Sanity checker decorator that checks for correct data type of arguments of any function and performs the operation.
 
+Iterators.ipynb - created own for loop function using iter and next methods
+
+Created own range class using iter and next 
